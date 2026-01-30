@@ -1,0 +1,10 @@
+name: skinClassifier
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - numpy
+  - pandas
+  - polars
+  - scikit-learn
+prefix: /opt/anaconda3/envs/skinClassifier
